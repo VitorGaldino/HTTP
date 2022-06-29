@@ -1,0 +1,40 @@
+O que são métodos HTTP?
+R: É um conjunto de métodos de requisição responsáveis por indicar a ação a ser executada para um dado recurso.
+
+Quais são os métodos HTTP mais utilizados atualmente?
+R: Os mais utilizados são: GET, POST, PUT, DELETE e também TRACE, OPTIONS, PATCH e CONNECT
+
+Quais os 2 principais métodos do HTTP. Qual é a diferença entre eles?
+R: Os dois principais e mais utilizados são GET (a mais comum entre todas) e POST (utilizado para quando queremos criar um recurso).
+
+O que são requisições HTTP. Quais os tipos?
+R: São mensagens enviadas pelo cliente para iniciar uma ação no servidor. GET, POST, PUT, DELETE, TRACE, OPTIONS, PATCH ou HEAD, e CONNECT.
+
+Como funciona uma requisição?
+R: O cliente efetua um pedido para o servidor e dentro deste pedido deve conter requisições para que o servidor consiga efetuar a leitura e resposta. As requisições HTTP contem três partes: Requisições (request), Cabeçalhos (headers) e Corpo (body) mas só as requisições são obrigatórias.
+
+O que é o método GET?
+R: É o método HTTP que solicita uma representação do recurso especificado. Solicitações a parte do GET só devem recuperar dados.
+
+Qual é o protocolo de internet para transferência segura, com o uso de certificado digital, utilizado em sites de compras eletrônicas
+R: O HTTPS (Hyper Text Transfer Protocol Secure) ou Protocolo de Transferência de Hipertexto Seguro.
+
+Quais os principaos métodos de uma requisição REST?
+R: São eles: GET, POST, PUT e DELETE;
+
+Qual a diferença entre IPV4 e IPV6?
+O protocolo de internet versão 4 possuí endereços no padrão 32 bits e sustenta cerca de 4 bilhões de combinações de endereços de IP em todo mundo. Já o IPV6 é a versão 6 do Protocolo de Internet, com endereços no padrão 128 bits, permitindo cerca de 340 undecilhões de endereços. 
+
+Faça um resumo sobre os seguintes protocolos: HTTP, TCP, IP, UDP, SMTP e FTP.
+
+HTTP - É um protocolo que permite a obtenção de recursos, como documentos HTML. É a base de qualquer troca de dados na Web e um protocolo cliente-servidor, o que significa que as requisições são iniciadas pelo destinatário, geralmente um navegador da Web.
+
+TCP - O Protocolo de Controle de Transmissão, é um dos protocolos de comunicação do Modelo OSI, que dão suporte a rede global Internet, verificando se os dados são enviados na sequência correta e sem erros via rede.
+
+IP - É um endereço de Protocolo de Internet, é um rótulo numérico atribuído a cada dispositivo conectado a uma rede de computadores que utiliza o Protocolo de Internet para comunicação.
+
+UDP - É o nome que se dá ao Protocolo de Datagramas do Usuário, e ele opera sobre o protocolo da Internet (IP) para transmitir datagramas em uma rede.
+
+SMTP - Simple Mail Transfer Protocol ou Protocolo de Transferência de Correio Simples, é o protocolo padrão de envio de mensagens de correio eletrônico através da Internet entre dois dispositivos computacionais (Emissor e Receptor).
+
+FTP - O File Transfer Protocol ou Protocolo de Transferência de Arquivos, é um protocolo padrão/genérico independente de hardware sobre um modo de transferir arquivos/ficheiros e também é um programa de transferência.
